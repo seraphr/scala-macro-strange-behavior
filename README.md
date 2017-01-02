@@ -1,0 +1,1 @@
+# scala-macro-strange-behavior
